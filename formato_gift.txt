@@ -1,0 +1,28 @@
+Calcolare il lavoro del ventricolo sinistro per battito sapendo che il volume del ventricolo è 70 ml e la pressione media dell’arteria aorta è pari a 100 mmHg:{
+~10 J
+=0.93 J
+~2J
+~300 J
+}
+
+Calcolare il lavoro del ventricolo destro per battito sapendo che il volume del ventricolo è 70 ml e la pressione media dell’arteria polmonare è pari a 20 mmHg:{
+=0,19 J;
+~80 J;
+~15J;
+~100 J
+} 
+
+Sapendo che il cuore consuma l’8% delle calorie giornaliere, usando i risultati ottenuti per il lavoro del ventricolo sinistro e destro, considerando 80 battiti/min, qual è l’efficienza della pompa cardiaca?:{
+~10%;
+=22%;
+~35%;
+~50%
+}
+
+Una donna di 45 anni ha una pressione arteriosa media di 120 mmHg, un flusso sanguigno di 5 litri/min e una frequenza cardiaca di 70 battiti/min. Quale sarà la sua potenza cardiaca?:{
+~113 W;
+~13,3 W;
+=1,33 W;
+~80 W;
+~0,08 W
+}
